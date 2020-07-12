@@ -424,8 +424,6 @@ footer p {
   .big-box img {
     height: 100%
   }
-}
-
   /* フォーム */
   input [type="text"],
   input [type="email"],
@@ -446,3 +444,5 @@ footer p {
   .sns-box {
     margin-bottom: 30px
   }
+
+}
